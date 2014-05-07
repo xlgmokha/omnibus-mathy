@@ -1,0 +1,9 @@
+#!/bin/bash
+#
+# Perform necessary mathy removal steps
+# after package is uninstalled.
+#
+
+echo "mathy has been uninstalled!"
+
+exit 0
