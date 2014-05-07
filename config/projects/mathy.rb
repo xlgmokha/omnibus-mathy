@@ -1,7 +1,7 @@
 
 name 'mathy'
-maintainer 'CHANGE ME'
-homepage 'CHANGEME.com'
+maintainer 'mo khan'
+homepage 'github.com/mokhan/mathy'
 
 replaces        'mathy'
 install_path    '/opt/mathy'
@@ -13,6 +13,7 @@ dependency 'preparation'
 
 # mathy dependencies/components
 # dependency 'somedep'
+dependency 'mathy'
 
 # version manifest file
 dependency 'version-manifest'
